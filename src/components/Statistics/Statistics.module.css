@@ -1,0 +1,36 @@
+.statistics {
+    display: flex;
+    flex-direction: column;
+    margin-top: 50px;
+    gap: 20px;
+    align-items: center;
+}
+
+.title {
+    margin: 0;
+    margin-bottom: 30px;
+    font-size: 40px;
+    text-align: center;
+}
+
+.notification {
+    margin: 0;
+    font-size: 28px;
+    text-align: center;
+    font-weight: 500;
+}
+
+.list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.option {
+    margin: 0;
+    font-size: 28px;
+    font-weight: 500;
+}
